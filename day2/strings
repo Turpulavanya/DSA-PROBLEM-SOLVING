@@ -1,0 +1,5 @@
+a="lalal"
+if a==a[::-1]:
+   print("palimdrome")
+else:
+   print("not a palindrome")
